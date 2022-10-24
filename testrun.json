@@ -1,0 +1,162 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-10-24T01:11:32.018Z",
+    "end": "2022-10-24T01:11:36.016Z",
+    "duration": 3998,
+    "locatorUsage": {
+      "todo inputbox": {
+        "locatorName": "todo inputbox",
+        "locatorPasseedInstance": 10,
+        "locatorFailedInstance": 0
+      },
+      "todo item - wash face": {
+        "locatorName": "todo item - wash face",
+        "locatorPasseedInstance": 4,
+        "locatorFailedInstance": 0
+      },
+      "Delete Button": {
+        "locatorName": "Delete Button",
+        "locatorPasseedInstance": 6,
+        "locatorFailedInstance": 0
+      },
+      "Todo Header": {
+        "locatorName": "Todo Header",
+        "locatorPasseedInstance": 4,
+        "locatorFailedInstance": 0
+      }
+    },
+    "reviews": 0
+  },
+  "tests": [
+    {
+      "title": "add todo item",
+      "fullTitle": "@smoke test add todo item",
+      "file": "C:\\Users\\3wwei\\bluestone-sample\\script\\add_todo_item.js",
+      "duration": 3997,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "add todo item",
+      "fullTitle": "@smoke test add todo item",
+      "file": "C:\\Users\\3wwei\\bluestone-sample\\script\\add_todo_item.js",
+      "duration": 3997,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    }
+  ],
+  "reviews": [],
+  "runId": "testrun123",
+  "screenshotManager": [
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 17,
+      "picPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-17-0-1.png",
+      "mhtmlPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-17-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 18,
+      "picPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-0-1.png",
+      "mhtmlPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 18,
+      "picPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-0-2.png",
+      "mhtmlPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-0-2.mhtml",
+      "retryCount": 0,
+      "recordIndex": 2
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 19,
+      "picPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-19-0-1.png",
+      "mhtmlPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-19-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 20,
+      "picPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-20-0-1.png",
+      "mhtmlPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-20-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 22,
+      "picPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-22-0-1.png",
+      "mhtmlPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-22-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 23,
+      "picPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-23-0-1.png",
+      "mhtmlPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-23-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 24,
+      "picPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-24-0-1.png",
+      "mhtmlPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-24-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 25,
+      "picPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-0-1.png",
+      "mhtmlPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 25,
+      "picPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-0-2.png",
+      "mhtmlPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-0-2.mhtml",
+      "retryCount": 0,
+      "recordIndex": 2
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 26,
+      "picPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-26-0-1.png",
+      "mhtmlPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-26-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 27,
+      "picPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-27-0-1.png",
+      "mhtmlPath": "C:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-27-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    }
+  ],
+  "errorManager": {
+    "ErrorList": []
+  }
+}

@@ -59,9 +59,27 @@ function createLocatorByContext(element) {
 
     return output
 }
+/**
+ * Generate locator based on its title/inner text/place holder if possible
+ * @param {HTMLElement} element 
+ * @returns {Output}
+ */
+function getLocatorByPlaceholder(element) {
+    let output = new Output()
+    let placeHolder = element.getAttribute('placeholder')
+    if (placeHolder != null && placeHolder != '') {
+        let potentialPath = `//input[@placeholder="${placeHolder}"]`
+        let elements = getElementByXpath(potentialPath)
+        if (elements.length == 1) {
+            output = new Output(element, potentialPath)
+        }
+    }
+    return output
+
+}
 
 export function getLocator(element, selector) {
-    const functionList = [createLocatorByContext]
+    const functionList = [createLocatorByContext, getLocatorByPlaceholder]
     let result = createOutput()
     for (let i = 0; i < functionList.length; i++) {
         let currentFunc = functionList[i]

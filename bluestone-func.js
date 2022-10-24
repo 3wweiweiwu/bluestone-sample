@@ -1,8 +1,9 @@
-let locators = require('./bluestone-locator')
-let svgSupport = require('./functions/validateSvg')
-let validateAttribute = require('./functions/getAttribute')
-let scroll = require('./functions/scroll')
-let api = require('./functions/apiRequest')
+const getTextColor = require('./function/getTextColor.js');
+let locators = require('./bluestone-locator');
+let svgSupport = require('./functions/validateSvg');
+let validateAttribute = require('./functions/getAttribute');
+let scroll = require('./functions/scroll');
+let api = require('./functions/apiRequest');
 module.exports = {
     validateSvgFromLink: {
         func: svgSupport.validateSvgFromLink,
@@ -16,5 +17,5 @@ module.exports = {
         func: scroll.scroll,
         locators: []
     },
-
-}
+    getTextColor: new getTextColor.getTextColor()
+};

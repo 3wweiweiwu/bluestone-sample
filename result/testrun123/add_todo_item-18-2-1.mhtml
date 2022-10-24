@@ -1,0 +1,397 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://todomvc.com/examples/angularjs/#/
+Subject: =?utf-8?Q?AngularJS=20=E2=80=A2=20TodoMVC?=
+Date: Mon, 24 Oct 2022 01:28:15 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--dEc1daC1nFNSr5Df25bkD0IQsfyo1vlbJ0gZD0fA2b----"
+
+
+------MultipartBoundary--dEc1daC1nFNSr5Df25bkD0IQsfyo1vlbJ0gZD0fA2b----
+Content-Type: text/html
+Content-ID: <frame-949517F6594870741B9AFB96A081F010@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://todomvc.com/examples/angularjs/#/
+
+<!DOCTYPE html><html lang=3D"en" data-framework=3D"angularjs"><head><meta h=
+ttp-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-d110c2c5-ea6e-48df-ae4c-f=
+6ef3aa55ae5@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-e54004dd-0b95-4fa0-a721-7557252df90f@mhtml.blink" />
+	=09
+		<title>AngularJS =E2=80=A2 TodoMVC</title>
+		<link rel=3D"stylesheet" href=3D"https://todomvc.com/examples/angularjs/n=
+ode_modules/todomvc-common/base.css">
+		<link rel=3D"stylesheet" href=3D"https://todomvc.com/examples/angularjs/n=
+ode_modules/todomvc-app-css/index.css">
+	=09
+	</head>
+	<body ng-app=3D"todomvc" class=3D"learn-bar ng-scope"><aside class=3D"lear=
+n"><header> <h3>AngularJS</h3> <span class=3D"source-links">   <h5>Example<=
+/h5> <a href=3D"https://github.com/tastejs/todomvc/tree/gh-pages/examples/a=
+ngularjs">Source</a>  <h5>Require.js &amp; AngularJS</h5>  <a class=3D"demo=
+-link" data-type=3D"local" href=3D"https://todomvc.com/examples/angularjs_r=
+equire">Demo</a>, <a href=3D"https://github.com/tastejs/todomvc/tree/gh-pag=
+es/examples/angularjs_require">Source</a>  <h5>TypeScript &amp; AngularJS</=
+h5>  <a class=3D"demo-link" data-type=3D"local" href=3D"https://todomvc.com=
+/examples/typescript-angular">Demo</a>, <a href=3D"https://github.com/taste=
+js/todomvc/tree/gh-pages/examples/typescript-angular">Source</a>  <h5>Googl=
+e Cloud Platform + Express</h5>  <a class=3D"demo-link" data-type=3D"extern=
+al" href=3D"http://gcloud-todos.appspot.com/">Demo</a>, <a href=3D"https://=
+github.com/GoogleCloudPlatform/gcloud-node-todos">Source</a>  <h5>Angular2<=
+/h5>  <a class=3D"demo-link" data-type=3D"local" href=3D"https://todomvc.co=
+m/examples/angular2">Demo</a>, <a href=3D"https://github.com/tastejs/todomv=
+c/tree/gh-pages/examples/angular2">Source</a>   </span> </header> <hr> <blo=
+ckquote class=3D"quote speech-bubble"> <p>HTML is great for declaring stati=
+c documents, but it falters when we try to use it for declaring dynamic vie=
+ws in web-applications. AngularJS lets you extend HTML vocabulary for your =
+application. The resulting environment is extraordinarily expressive, reada=
+ble, and quick to develop.</p> <footer> <a href=3D"http://angularjs.org/">A=
+ngularJS</a> </footer> </blockquote>  <hr>  <h4>Official Resources</h4> <ul=
+>  <li> <a href=3D"http://docs.angularjs.org/tutorial">Tutorial</a> </li>  =
+<li> <a href=3D"http://docs.angularjs.org/api">API Reference</a> </li>  <li=
+> <a href=3D"http://docs.angularjs.org/guide">Developer Guide</a> </li>  <l=
+i> <a href=3D"https://www.madewithangular.com/">Applications built with Ang=
+ularJS</a> </li>  <li> <a href=3D"http://blog.angularjs.org/">Blog</a> </li=
+>  <li> <a href=3D"http://docs.angularjs.org/misc/faq">FAQ</a> </li>  <li> =
+<a href=3D"https://www.youtube.com/user/angularjs">Videos</a> </li>  </ul> =
+ <h4>Articles and Guides</h4> <ul>  <li> <a href=3D"https://www.codeschool.=
+com/courses/shaping-up-with-angular-js">Code School AngularJS course</a> </=
+li>  <li> <a href=3D"http://net.tutsplus.com/tutorials/javascript-ajax/5-aw=
+esome-angularjs-features">5 Awesome AngularJS Features</a> </li>  <li> <a h=
+ref=3D"http://briantford.com/blog/angular-yeoman.html">Using Yeoman with An=
+gularJS</a> </li>  <li> <a href=3D"http://stephenplusplus.github.io/meangul=
+ar">me&amp;ngular - an introduction to MVW</a> </li>  </ul>  <h4>Community<=
+/h4> <ul>  <li> <a href=3D"http://www.youtube.com/playlist?list=3DPL1w1q3fL=
+4pmgqpzb-XhG7Clgi67d_OHXz">Walkthroughs and Tutorials on YouTube</a> </li> =
+ <li> <a href=3D"https://groups.google.com/forum/?fromgroups#!forum/angular=
+">Google Groups mailing list</a> </li>  <li> <a href=3D"http://stackoverflo=
+w.com/questions/tagged/angularjs">angularjs on Stack Overflow</a> </li>  <l=
+i> <a href=3D"https://twitter.com/angularjs">AngularJS on Twitter</a> </li>=
+  <li> <a href=3D"https://plus.google.com/+AngularJS/posts">AngularjS on Go=
+ogle+</a> </li>  </ul>   <footer> <hr> <em>If you have other helpful links =
+to share, or find any of the links above no longer work, please <a href=3D"=
+https://github.com/tastejs/todomvc/issues">let us know</a>.</em> </footer><=
+/aside>
+		<!-- ngView: undefined --><ng-view class=3D"ng-scope">
+			<section class=3D"todoapp ng-scope">
+				<header class=3D"header">
+					<h1>todos</h1>
+					<form class=3D"todo-form ng-pristine ng-valid" ng-submit=3D"addTodo()"=
+>
+						<input class=3D"new-todo ng-pristine ng-untouched ng-valid" placehold=
+er=3D"What needs to be done?" ng-model=3D"newTodo" ng-disabled=3D"saving" a=
+utofocus=3D"" style=3D"border: thick solid rgb(0, 0, 255);">
+					</form>
+				</header>
+				<section class=3D"main ng-hide" ng-show=3D"todos.length">
+					<input id=3D"toggle-all" class=3D"toggle-all ng-pristine ng-untouched =
+ng-valid" type=3D"checkbox" ng-model=3D"allChecked" ng-click=3D"markAll(all=
+Checked)">
+					<label for=3D"toggle-all">Mark all as complete</label>
+					<ul class=3D"todo-list">
+						<!-- ngRepeat: todo in todos | filter:statusFilter track by $index --=
+>
+					</ul>
+				</section>
+				<footer class=3D"footer ng-hide" ng-show=3D"todos.length">
+					<span class=3D"todo-count"><strong class=3D"ng-binding">0</strong>
+						<ng-pluralize count=3D"remainingCount" when=3D"{ one: 'item left', ot=
+her: 'items left' }">items left</ng-pluralize>
+					</span>
+					<ul class=3D"filters">
+						<li>
+							<a ng-class=3D"{selected: status =3D=3D ''} " href=3D"https://todomv=
+c.com/examples/angularjs/#/" class=3D"selected">All</a>
+						</li>
+						<li>
+							<a ng-class=3D"{selected: status =3D=3D 'active'}" href=3D"https://t=
+odomvc.com/examples/angularjs/#/active">Active</a>
+						</li>
+						<li>
+							<a ng-class=3D"{selected: status =3D=3D 'completed'}" href=3D"https:=
+//todomvc.com/examples/angularjs/#/completed">Completed</a>
+						</li>
+					</ul>
+					<button class=3D"clear-completed ng-hide" ng-click=3D"clearCompletedTo=
+dos()" ng-show=3D"completedCount">Clear completed</button>
+				</footer>
+			</section>
+			<footer class=3D"info ng-scope">
+				<p>Double-click to edit a todo</p>
+				<p>Credits:
+					<a href=3D"http://twitter.com/cburgdorf">Christoph Burgdorf</a>,
+					<a href=3D"http://ericbidelman.com/">Eric Bidelman</a>,
+					<a href=3D"http://jacobmumm.com/">Jacob Mumm</a> and
+					<a href=3D"http://blog.igorminar.com/">Igor Minar</a>
+				</p>
+				<p>Part of <a href=3D"http://todomvc.com/">TodoMVC</a></p>
+			</footer>
+		</ng-view>
+
+	=09
+	=09
+	=09
+	=09
+	=09
+	=09
+	=09
+	=09
+	=09
+	=09
+=09
+
+</body></html>
+------MultipartBoundary--dEc1daC1nFNSr5Df25bkD0IQsfyo1vlbJ0gZD0fA2b----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d110c2c5-ea6e-48df-ae4c-f6ef3aa55ae5@mhtml.blink
+
+@charset "utf-8";
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cl=
+oak, .ng-hide:not(.ng-hide-animate) { display: none !important; }
+
+ng\:form { display: block; }
+
+.ng-animate-shim { visibility: hidden; }
+
+.ng-anchor { position: absolute; }
+------MultipartBoundary--dEc1daC1nFNSr5Df25bkD0IQsfyo1vlbJ0gZD0fA2b----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e54004dd-0b95-4fa0-a721-7557252df90f@mhtml.blink
+
+@charset "utf-8";
+
+[ng-cloak] { display: none; }
+------MultipartBoundary--dEc1daC1nFNSr5Df25bkD0IQsfyo1vlbJ0gZD0fA2b----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://todomvc.com/examples/angularjs/node_modules/todomvc-common/base.css
+
+@charset "utf-8";
+
+hr { margin: 20px 0px; border-width: 1px 0px; border-right-style: initial; =
+border-left-style: initial; border-right-color: initial; border-left-color:=
+ initial; border-image: initial; border-top-style: dashed; border-top-color=
+: rgb(197, 197, 197); border-bottom-style: dashed; border-bottom-color: rgb=
+(247, 247, 247); }
+
+.learn a { font-weight: normal; text-decoration: none; color: rgb(184, 63, =
+69); }
+
+.learn a:hover { text-decoration: underline; color: rgb(120, 126, 126); }
+
+.learn h3, .learn h4, .learn h5 { margin: 10px 0px; font-weight: 500; line-=
+height: 1.2; color: rgb(0, 0, 0); }
+
+.learn h3 { font-size: 24px; }
+
+.learn h4 { font-size: 18px; }
+
+.learn h5 { margin-bottom: 0px; font-size: 14px; }
+
+.learn ul { padding: 0px; margin: 0px 0px 30px 25px; }
+
+.learn li { line-height: 20px; }
+
+.learn p { font-size: 15px; font-weight: 300; line-height: 1.3; margin-top:=
+ 0px; margin-bottom: 0px; }
+
+#issue-count { display: none; }
+
+.quote { border: none; margin: 20px 0px 60px; }
+
+.quote p { font-style: italic; }
+
+.quote p::before { content: "=E2=80=9C"; font-size: 50px; opacity: 0.15; po=
+sition: absolute; top: -20px; left: 3px; }
+
+.quote p::after { content: "=E2=80=9D"; font-size: 50px; opacity: 0.15; pos=
+ition: absolute; bottom: -42px; right: 3px; }
+
+.quote footer { position: absolute; bottom: -40px; right: 0px; }
+
+.quote footer img { border-radius: 3px; }
+
+.quote footer a { margin-left: 5px; vertical-align: middle; }
+
+.speech-bubble { position: relative; padding: 10px; background: rgba(0, 0, =
+0, 0.04); border-radius: 5px; }
+
+.speech-bubble::after { content: ""; position: absolute; top: 100%; right: =
+30px; border-width: 13px; border-style: solid; border-color: rgba(0, 0, 0, =
+0.04) transparent transparent; border-image: initial; }
+
+.learn-bar > .learn { position: absolute; width: 272px; top: 8px; left: -30=
+0px; padding: 10px; border-radius: 5px; background-color: rgba(255, 255, 25=
+5, 0.6); transition-property: left; transition-duration: 500ms; }
+
+@media (min-width: 899px) {
+  .learn-bar { width: auto; padding-left: 300px; }
+  .learn-bar > .learn { left: 8px; }
+}
+------MultipartBoundary--dEc1daC1nFNSr5Df25bkD0IQsfyo1vlbJ0gZD0fA2b----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://todomvc.com/examples/angularjs/node_modules/todomvc-app-css/index.css
+
+@charset "utf-8";
+
+html, body { margin: 0px; padding: 0px; }
+
+button { margin: 0px; padding: 0px; border: 0px; background: none; font-siz=
+e: 100%; vertical-align: baseline; font-family: inherit; font-weight: inher=
+it; color: inherit; appearance: none; -webkit-font-smoothing: antialiased; =
+}
+
+body { font: 300 14px / 1.4em "Helvetica Neue", Helvetica, Arial, sans-seri=
+f; background: rgb(245, 245, 245); color: rgb(77, 77, 77); min-width: 230px=
+; max-width: 550px; margin: 0px auto; -webkit-font-smoothing: antialiased; =
+}
+
+:focus { outline: 0px; }
+
+.hidden { display: none; }
+
+.todoapp { background: rgb(255, 255, 255); margin: 130px 0px 40px; position=
+: relative; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px 0px, rgba(0, 0, 0, 0=
+.1) 0px 25px 50px 0px; }
+
+.todoapp input::-webkit-input-placeholder { font-style: italic; font-weight=
+: 300; color: rgb(230, 230, 230); }
+
+.todoapp h1 { position: absolute; top: -155px; width: 100%; font-size: 100p=
+x; font-weight: 100; text-align: center; color: rgba(175, 47, 47, 0.15); te=
+xt-rendering: optimizelegibility; }
+
+.new-todo, .edit { position: relative; margin: 0px; width: 100%; font-size:=
+ 24px; font-family: inherit; font-weight: inherit; line-height: 1.4em; colo=
+r: inherit; padding: 6px; border: 1px solid rgb(153, 153, 153); box-shadow:=
+ rgba(0, 0, 0, 0.2) 0px -1px 5px 0px inset; box-sizing: border-box; -webkit=
+-font-smoothing: antialiased; }
+
+.new-todo { padding: 16px 16px 16px 60px; border: none; background: rgba(0,=
+ 0, 0, 0.004); box-shadow: rgba(0, 0, 0, 0.03) 0px -2px 1px inset; }
+
+.main { position: relative; z-index: 2; border-top: 1px solid rgb(230, 230,=
+ 230); }
+
+.toggle-all { text-align: center; border: none; opacity: 0; position: absol=
+ute; }
+
+.toggle-all + label { width: 60px; height: 34px; font-size: 0px; position: =
+absolute; top: -52px; left: -13px; transform: rotate(90deg); }
+
+.toggle-all + label::before { content: "=E2=9D=AF"; font-size: 22px; color:=
+ rgb(230, 230, 230); padding: 10px 27px; }
+
+.toggle-all:checked + label::before { color: rgb(115, 115, 115); }
+
+.todo-list { margin: 0px; padding: 0px; list-style: none; }
+
+.todo-list li { position: relative; font-size: 24px; border-bottom: 1px sol=
+id rgb(237, 237, 237); }
+
+.todo-list li:last-child { border-bottom: none; }
+
+.todo-list li.editing { border-bottom: none; padding: 0px; }
+
+.todo-list li.editing .edit { display: block; width: 506px; padding: 12px 1=
+6px; margin: 0px 0px 0px 43px; }
+
+.todo-list li.editing .view { display: none; }
+
+.todo-list li .toggle { text-align: center; width: 40px; height: auto; posi=
+tion: absolute; top: 0px; bottom: 0px; margin: auto 0px; border: none; appe=
+arance: none; }
+
+.todo-list li .toggle { opacity: 0; }
+
+.todo-list li .toggle + label { background-image: url("data:image/svg+xml;u=
+tf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%=
+20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20c=
+x%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D=
+%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E"); background-repeat=
+: no-repeat; background-position: left center; }
+
+.todo-list li .toggle:checked + label { background-image: url("data:image/s=
+vg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%=
+2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Cci=
+rcle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20s=
+troke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%23=
+5dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/=
+%3E%3C/svg%3E"); }
+
+.todo-list li label { word-break: break-all; padding: 15px 15px 15px 60px; =
+display: block; line-height: 1.2; transition: color 0.4s ease 0s; }
+
+.todo-list li.completed label { color: rgb(217, 217, 217); text-decoration:=
+ line-through; }
+
+.todo-list li .destroy { display: none; position: absolute; top: 0px; right=
+: 10px; bottom: 0px; width: 40px; height: 40px; margin: auto 0px 11px; font=
+-size: 30px; color: rgb(204, 154, 154); transition: color 0.2s ease-out 0s;=
+ }
+
+.todo-list li .destroy:hover { color: rgb(175, 91, 94); }
+
+.todo-list li .destroy::after { content: "=C3=97"; }
+
+.todo-list li:hover .destroy { display: block; }
+
+.todo-list li .edit { display: none; }
+
+.todo-list li.editing:last-child { margin-bottom: -1px; }
+
+.footer { color: rgb(119, 119, 119); padding: 10px 15px; height: 20px; text=
+-align: center; border-top: 1px solid rgb(230, 230, 230); }
+
+.footer::before { content: ""; position: absolute; right: 0px; bottom: 0px;=
+ left: 0px; height: 50px; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.2) =
+0px 1px 1px, rgb(246, 246, 246) 0px 8px 0px -3px, rgba(0, 0, 0, 0.2) 0px 9p=
+x 1px -3px, rgb(246, 246, 246) 0px 16px 0px -6px, rgba(0, 0, 0, 0.2) 0px 17=
+px 2px -6px; }
+
+.todo-count { float: left; text-align: left; }
+
+.todo-count strong { font-weight: 300; }
+
+.filters { margin: 0px; padding: 0px; list-style: none; position: absolute;=
+ right: 0px; left: 0px; }
+
+.filters li { display: inline; }
+
+.filters li a { color: inherit; margin: 3px; padding: 3px 7px; text-decorat=
+ion: none; border: 1px solid transparent; border-radius: 3px; }
+
+.filters li a:hover { border-color: rgba(175, 47, 47, 0.1); }
+
+.filters li a.selected { border-color: rgba(175, 47, 47, 0.2); }
+
+.clear-completed, html .clear-completed:active { float: right; position: re=
+lative; line-height: 20px; text-decoration: none; cursor: pointer; }
+
+.clear-completed:hover { text-decoration: underline; }
+
+.info { margin: 65px auto 0px; color: rgb(191, 191, 191); font-size: 10px; =
+text-shadow: rgba(255, 255, 255, 0.5) 0px 1px 0px; text-align: center; }
+
+.info p { line-height: 1; }
+
+.info a { color: inherit; text-decoration: none; font-weight: 400; }
+
+.info a:hover { text-decoration: underline; }
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  .toggle-all, .todo-list li .toggle { background: none; }
+  .todo-list li .toggle { height: 40px; }
+}
+
+@media (max-width: 430px) {
+  .footer { height: 50px; }
+  .filters { bottom: 10px; }
+}
+------MultipartBoundary--dEc1daC1nFNSr5Df25bkD0IQsfyo1vlbJ0gZD0fA2b------

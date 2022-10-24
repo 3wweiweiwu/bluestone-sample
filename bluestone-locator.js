@@ -1,42 +1,32 @@
 module.exports = {
-    'Todo Input': {
-        locator: ['.new-todo'],
-        screenshot: 'componentPic/Todo_Input.png',
-        displayName: 'Todo Input'
-    },
-    'hello world task': {
-        locator: ['//LABEL[text()=\'hello world\']'],
-        screenshot: 'componentPic/hello_world_task.png',
-        displayName: 'hello world task'
+    'Todo Item Hello': {
+        locator: ['//LABEL[text()=\'hello\']'],
+        screenshot: 'componentPic/Todo_Item_Hello.png',
+        displayName: 'Todo Item Hello',
+        snapshot: require('./locator/Todo Item Hello.json')
     },
     'Delete Button': {
-        locator: ['.destroy'],
+        locator: ['//*[@class=\'destroy\' and local-name()=\'button\']'],
         screenshot: 'componentPic/Delete_Button.png',
-        displayName: 'Delete Button'
+        displayName: 'Delete Button',
+        snapshot: require('./locator/Delete Button.json')
     },
-    'Download link': {
-        locator: ['p:nth-child(6) > a > strong'],
-        screenshot: 'componentPic/Download_link.png',
-        displayName: 'Download link'
+    'todo inputbox': {
+        locator: ['//input[@placeholder="What needs to be done?"]'],
+        screenshot: 'componentPic/todo_inputbox.png',
+        displayName: 'todo inputbox',
+        snapshot: require('./locator/todo inputbox.json')
     },
-    'Process Explorer Navigation Item': {
-        locator: ['//A[text()=\'Process Explorer\']'],
-        screenshot: 'componentPic/Process_Explorer_Navigation_Item.png',
-        displayName: 'Process Explorer Navigation Item'
+    'todo item - wash face': {
+        locator: ['//LABEL[text()=\'wash face\']'],
+        screenshot: 'componentPic/todo_item___wash_face.png',
+        displayName: 'todo item - wash face',
+        snapshot: require('./locator/todo item - wash face.json')
     },
-    'Todos Label': {
+    'Todo Header': {
         locator: ['//H1[text()=\'todos\']'],
-        screenshot: 'componentPic/Todos_Label.png',
-        displayName: 'Todos Label'
-    },
-    'Double-click to edit a todo Label': {
-        locator: ['(//P)[1]'],
-        screenshot: 'componentPic/Double_click_to_edit_a_todo_Label.png',
-        displayName: 'Double-click to edit a todo Label'
-    },
-    'Double-click to edit a todo text': {
-        locator: ['//P[text()=\'Double-click to edit a todo\']'],
-        screenshot: 'componentPic/Double_click_to_edit_a_todo_text.png',
-        displayName: 'Double-click to edit a todo text'
+        screenshot: 'componentPic/Todo_Header.png',
+        displayName: 'Todo Header',
+        snapshot: require('./locator/Todo Header.json')
     }
 };

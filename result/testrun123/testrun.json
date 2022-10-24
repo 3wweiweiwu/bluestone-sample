@@ -1,0 +1,372 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 0,
+    "pending": 0,
+    "failures": 1,
+    "start": "2022-10-24T01:28:05.244Z",
+    "end": "2022-10-24T01:28:17.850Z",
+    "duration": 12606,
+    "locatorUsage": {
+      "todo inputbox": {
+        "locatorName": "todo inputbox",
+        "locatorPasseedInstance": 30,
+        "locatorFailedInstance": 0
+      },
+      "todo item - wash face": {
+        "locatorName": "todo item - wash face",
+        "locatorPasseedInstance": 12,
+        "locatorFailedInstance": 0
+      },
+      "Delete Button": {
+        "locatorName": "Delete Button",
+        "locatorPasseedInstance": 18,
+        "locatorFailedInstance": 0
+      },
+      "Todo Header": {
+        "locatorName": "Todo Header",
+        "locatorPasseedInstance": 9,
+        "locatorFailedInstance": 0
+      }
+    },
+    "reviews": 0
+  },
+  "tests": [
+    {
+      "title": "add todo item",
+      "fullTitle": "@smoke test add todo item",
+      "file": "c:\\Users\\3wwei\\bluestone-sample\\script\\add_todo_item.js",
+      "duration": 4257,
+      "currentRetry": 2,
+      "err": {
+        "stack": "TypeError: Cannot read properties of undefined (reading 'locator')\n    at waitForElement (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\findElement.js:29:42)\n    at thisWaitElementExists (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\inbuiltFunc.js:84:25)\n    at Function.exports.waitElementExists [as func] (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\inbuiltFunc.js:97:12)\n    at exports.getTextColor.func (c:\\Users\\3wwei\\bluestone-sample\\function\\getTextColor.js:31:60)\n    at Context.<anonymous> (c:\\Users\\3wwei\\bluestone-sample\\script\\add_todo_item.js:27:40)",
+        "message": "Cannot read properties of undefined (reading 'locator')",
+        "multiple": [
+          {
+            "multiple": "TypeError: Cannot read properties of undefined (reading 'locator')"
+          }
+        ]
+      }
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "add todo item",
+      "fullTitle": "@smoke test add todo item",
+      "file": "c:\\Users\\3wwei\\bluestone-sample\\script\\add_todo_item.js",
+      "duration": 4257,
+      "currentRetry": 2,
+      "err": {
+        "stack": "TypeError: Cannot read properties of undefined (reading 'locator')\n    at waitForElement (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\findElement.js:29:42)\n    at thisWaitElementExists (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\inbuiltFunc.js:84:25)\n    at Function.exports.waitElementExists [as func] (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\inbuiltFunc.js:97:12)\n    at exports.getTextColor.func (c:\\Users\\3wwei\\bluestone-sample\\function\\getTextColor.js:31:60)\n    at Context.<anonymous> (c:\\Users\\3wwei\\bluestone-sample\\script\\add_todo_item.js:27:40)",
+        "message": "Cannot read properties of undefined (reading 'locator')",
+        "multiple": [
+          {
+            "multiple": "TypeError: Cannot read properties of undefined (reading 'locator')"
+          }
+        ]
+      }
+    }
+  ],
+  "passes": [],
+  "reviews": [],
+  "runId": "testrun123",
+  "screenshotManager": [
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 17,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-17-0-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-17-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 18,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-0-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 18,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-0-2.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-0-2.mhtml",
+      "retryCount": 0,
+      "recordIndex": 2
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 19,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-19-0-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-19-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 20,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-20-0-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-20-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 22,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-22-0-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-22-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 23,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-23-0-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-23-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 24,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-24-0-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-24-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 25,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-0-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 25,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-0-2.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-0-2.mhtml",
+      "retryCount": 0,
+      "recordIndex": 2
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 26,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-26-0-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-26-0-1.mhtml",
+      "retryCount": 0,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 17,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-17-1-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-17-1-1.mhtml",
+      "retryCount": 1,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 18,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-1-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-1-1.mhtml",
+      "retryCount": 1,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 18,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-1-2.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-1-2.mhtml",
+      "retryCount": 1,
+      "recordIndex": 2
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 19,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-19-1-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-19-1-1.mhtml",
+      "retryCount": 1,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 20,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-20-1-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-20-1-1.mhtml",
+      "retryCount": 1,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 22,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-22-1-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-22-1-1.mhtml",
+      "retryCount": 1,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 23,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-23-1-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-23-1-1.mhtml",
+      "retryCount": 1,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 24,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-24-1-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-24-1-1.mhtml",
+      "retryCount": 1,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 25,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-1-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-1-1.mhtml",
+      "retryCount": 1,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 25,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-1-2.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-1-2.mhtml",
+      "retryCount": 1,
+      "recordIndex": 2
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 26,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-26-1-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-26-1-1.mhtml",
+      "retryCount": 1,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 17,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-17-2-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-17-2-1.mhtml",
+      "retryCount": 2,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 18,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-2-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-2-1.mhtml",
+      "retryCount": 2,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 18,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-2-2.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-18-2-2.mhtml",
+      "retryCount": 2,
+      "recordIndex": 2
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 19,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-19-2-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-19-2-1.mhtml",
+      "retryCount": 2,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 20,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-20-2-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-20-2-1.mhtml",
+      "retryCount": 2,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 22,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-22-2-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-22-2-1.mhtml",
+      "retryCount": 2,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 23,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-23-2-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-23-2-1.mhtml",
+      "retryCount": 2,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 24,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-24-2-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-24-2-1.mhtml",
+      "retryCount": 2,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 25,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-2-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-2-1.mhtml",
+      "retryCount": 2,
+      "recordIndex": 1
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 25,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-2-2.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-25-2-2.mhtml",
+      "retryCount": 2,
+      "recordIndex": 2
+    },
+    {
+      "tcId": "add_todo_item",
+      "lineNumber": 26,
+      "picPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-26-2-1.png",
+      "mhtmlPath": "c:\\Users\\3wwei\\bluestone-sample\\result\\testrun123\\add_todo_item-26-2-1.mhtml",
+      "retryCount": 2,
+      "recordIndex": 1
+    }
+  ],
+  "errorManager": {
+    "ErrorList": [
+      {
+        "stack": "TypeError: Cannot read properties of undefined (reading 'locator')\n    at waitForElement (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\findElement.js:29:42)\n    at thisWaitElementExists (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\inbuiltFunc.js:84:25)\n    at Function.exports.waitElementExists [as func] (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\inbuiltFunc.js:97:12)\n    at exports.getTextColor.func (c:\\Users\\3wwei\\bluestone-sample\\function\\getTextColor.js:31:60)\n    at Context.<anonymous> (c:\\Users\\3wwei\\bluestone-sample\\script\\add_todo_item.js:27:40)",
+        "message": "Cannot read properties of undefined (reading 'locator')",
+        "name": "TypeError",
+        "title": "add todo item",
+        "fullTitle": "@smoke test add todo item",
+        "retryCount": 0,
+        "file": "c:\\Users\\3wwei\\bluestone-sample\\script\\add_todo_item.js"
+      },
+      {
+        "stack": "TypeError: Cannot read properties of undefined (reading 'locator')\n    at waitForElement (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\findElement.js:29:42)\n    at thisWaitElementExists (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\inbuiltFunc.js:84:25)\n    at Function.exports.waitElementExists [as func] (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\inbuiltFunc.js:97:12)\n    at exports.getTextColor.func (c:\\Users\\3wwei\\bluestone-sample\\function\\getTextColor.js:31:60)\n    at Context.<anonymous> (c:\\Users\\3wwei\\bluestone-sample\\script\\add_todo_item.js:27:40)",
+        "message": "Cannot read properties of undefined (reading 'locator')",
+        "name": "TypeError",
+        "title": "add todo item",
+        "fullTitle": "@smoke test add todo item",
+        "retryCount": 1,
+        "file": "c:\\Users\\3wwei\\bluestone-sample\\script\\add_todo_item.js"
+      },
+      {
+        "stack": "TypeError: Cannot read properties of undefined (reading 'locator')\n    at waitForElement (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\findElement.js:29:42)\n    at thisWaitElementExists (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\inbuiltFunc.js:84:25)\n    at Function.exports.waitElementExists [as func] (c:\\Users\\3wwei\\bluestone-sample\\node_modules\\bluestone\\ptLibrary\\functions\\inbuiltFunc.js:97:12)\n    at exports.getTextColor.func (c:\\Users\\3wwei\\bluestone-sample\\function\\getTextColor.js:31:60)\n    at Context.<anonymous> (c:\\Users\\3wwei\\bluestone-sample\\script\\add_todo_item.js:27:40)",
+        "message": "Cannot read properties of undefined (reading 'locator')",
+        "name": "TypeError",
+        "title": "add todo item",
+        "fullTitle": "@smoke test add todo item",
+        "retryCount": 2,
+        "file": "c:\\Users\\3wwei\\bluestone-sample\\script\\add_todo_item.js"
+      }
+    ]
+  }
+}
