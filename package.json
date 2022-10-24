@@ -2,7 +2,8 @@
     "name": "bluestone-sample-project",
     "version": "0.0.0",
     "scripts": {
-        "start": "mocha ./script/**.js --timeout 60000s --exit --grep '^.*smoke.*' --reporter mocha/lib/reporters/spec.js --reporter-option 'output=testrun.json,BLUESTONE_RUN_ID=testrun123,BLUESTONE_AUTO_SNAPSHOT=1' --retries 2"
+        "start": "mocha ./script/**.js --timeout 60000s --exit --grep '^.*smoke.*' --reporter mocha/lib/reporters/spec.js --reporter-option 'output=testrun.json,BLUESTONE_RUN_ID=testrun123,BLUESTONE_AUTO_SNAPSHOT=1' --retries 2",
+        "test": "echo"
     },
     "dependencies": {},
     "description": "Bluestone Project Source Code",
