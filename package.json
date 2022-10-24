@@ -1,7 +1,6 @@
 {
     "name": "bluestone-sample-project",
     "version": "0.0.0",
-    "private": true,
     "scripts": {
         "start": "mocha ./script/**.js --timeout 60000s --exit --grep '^.*smoke.*' --reporter mocha/lib/reporters/spec.js --reporter-option 'output=testrun.json,BLUESTONE_RUN_ID=testrun123,BLUESTONE_AUTO_SNAPSHOT=1' --retries 2",
         "build": "babel bin -d dist",
@@ -10,5 +9,18 @@
     "dependencies": {
         "bluestone": "^0.5.33",
         "mocha": "^10.1.0"
-    }
+    },
+    "description": "Bluestone Project Source Code",
+    "main": "bluestone-func.js",
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/3wweiweiwu/bluestone-sample.git"
+    },
+    "author": "Bluestone.js",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/3wweiweiwu/bluestone-sample/issues"
+    },
+    "homepage": "https://github.com/3wweiweiwu/bluestone-sample#readme"
 }
